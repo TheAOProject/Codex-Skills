@@ -1,0 +1,4 @@
+interface:
+  display_name: "AO Outfit Pin"
+  short_description: "Create Canva outfit pins and publish to Pinterest"
+  default_prompt: "Use $ao-outfit-pin to create and automatically publish an outfit pin using these items from AO Products: [item names]."

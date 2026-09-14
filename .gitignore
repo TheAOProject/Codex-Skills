@@ -3,6 +3,7 @@
 !/.gitignore
 !/README.md
 !/ao-product-capture/
+!/ao-outfit-pin/
 
 # Never sync bundled skills, installed plugins, credentials, or local artifacts.
 .system/
