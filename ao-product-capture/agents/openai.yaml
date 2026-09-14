@@ -1,0 +1,4 @@
+interface:
+  display_name: "AO Product Capture"
+  short_description: "Capture reusable transparent product images"
+  default_prompt: "Use $ao-product-capture to capture this product image and save it to my Canva AO Products folder."

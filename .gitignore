@@ -1,0 +1,33 @@
+# Only explicitly approved custom skills and repository documentation are tracked.
+/*
+!/.gitignore
+!/README.md
+!/ao-product-capture/
+
+# Never sync bundled skills, installed plugins, credentials, or local artifacts.
+.system/
+.codex/
+.agents/
+plugins/
+.DS_Store
+._*
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+auth.json
+credentials.json
+secrets.json
+secrets/
+.private/
+node_modules/
+__pycache__/
+*.pyc
+*.log
+*.tmp
+*.swp
+*.zip
+backups/
+*-backup*/
